@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ghc336199.github.io/sitemap.xml
